@@ -18,7 +18,7 @@ Create location for this blocks following instructions:
 **From large Desktop**
   1. 1 block -> 4 elements in a row: all equal width
   1. 2 block -> 2 elements in a row: all equal width
-  1. 3 block -> 3 elements in a row: 1 -> 25%, 2 and 3 -> 25%
+  1. 3 block -> 3 elements in a row: 1 -> 50%, 2 and 3 -> 25%
   1. 4 block -> 3 elements in a row: 1 -> 25%, 2 -> 25% and 3 ->50%
   1. 5 block -> 5 elements in a row: all equal width
   
