@@ -1,4 +1,5 @@
-#Practice media queries
+# Practice media queries
+
 Download [index.html](./index.html) to you desktop. Edit page to be responsive to follow requirements below:
 
 **Landscapes**
